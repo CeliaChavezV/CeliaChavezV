@@ -1,6 +1,6 @@
-# 👩‍🚀 Profile
+# 👩‍🚀 Hi there, my name is Celia Chavez Virgen
 
-Hi there! I'm Celia Chávez Virgen, a 9th-semester student of **Electronics and Communications Engineering** at the **Instituto Politécnico Nacional (IPN)** in Mexico, specializing in **Communications**.
+Hi there! I'm Celia, a 9th-semester student of **Electronics and Communications Engineering** at the **Instituto Politécnico Nacional (IPN)** in Mexico, specializing in **Communications**.
 
 I'm passionate about **satellites**, **radiofrequency**, and **space-based telecommunications**, and how these technologies can bridge the digital divide. I'm currently focused on strengthening my technical skills and building a strong portfolio to open new academic and professional opportunities, particularly in the aerospace industry.
 
