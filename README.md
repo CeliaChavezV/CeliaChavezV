@@ -8,7 +8,7 @@ Hi there! I'm Celia, a 9th-semester student of **Electronics and Communications 
 
 - 📡 **Thesis project:** *Emergency Ground Station Network Design and Planning* (Ongoing)
 - 🌍 **Scientific stay:** Samara University, Russia — Satellite Systems Internship
-- 🇪🇸 **Exchange program:** Universidad Politécnica de Madrid, Spain — Telecommucations Systems Engineering
+- 🇪🇸 **Exchange program:** Universidad Politécnica de Madrid, Spain — Telecommunications Systems Engineering
 - 🇨🇦 **Academic and cultural immersion:** Oxford International, Canada — Soft skills and English communication
 - 🇲🇽 **Mexican Space Agency:** Participant in the *AztechSat Constellation* project in collaboration with NASA
 - 👩‍🏫 Active IEEE student leader, event host and technical conference organizer
