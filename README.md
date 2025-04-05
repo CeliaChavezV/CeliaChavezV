@@ -10,7 +10,7 @@ Hi there! I'm Celia, a 9th-semester student of **Electronics and Communications 
 - 🌍 **Scientific stay:** Samara University, Russia — Satellite Systems Internship
 - 🇪🇸 **Exchange program:** Universidad Politécnica de Madrid, Spain — Telecommunications Systems Engineering
 - 🇨🇦 **Academic and cultural immersion:** Oxford International, Canada — Soft skills and English communication
-- 🇲🇽 **Mexican Space Agency:** Participant in the *AztechSat Constellation* project in collaboration with NASA
+- 🇲🇽 **Mexican Space Agency:** Contributor to the *Conceptual Model for Broadband Satellite Development*, focusing on the **diagnosis of Mexico's digital divide**
 - 👩‍🏫 Active IEEE student leader, event host and technical conference organizer
 
 ---
