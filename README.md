@@ -1,6 +1,6 @@
 # 👩‍🚀 Hi there, my name is Celia Chavez Virgen
 
-Hi there!, 你好!, привет!, I'm Celia, a 9th-semester student of **Electronics and Communications Engineering** at the **Instituto Politécnico Nacional (IPN)** in Mexico, specializing in **Communications**.
+Hola!, Hi there!, Bonjour!, 你好!, привет!, I'm Celia, a 9th-semester student of **Electronics and Communications Engineering** at the **Instituto Politécnico Nacional (IPN)** in Mexico, specializing in **Communications**.
 
 ---
 
