@@ -21,10 +21,3 @@ This repository gathers all of my technical projects, certifications, and resear
 
 ---
 
-## 📬 Contact
-
-- ✉️ **Email:** c.chavezvirgen@gmail.com  
-- 🌐 **LinkedIn:** [linkedin.com/in/celiachavezv](https://www.linkedin.com/)
-
----
-
