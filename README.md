@@ -6,7 +6,7 @@ Hi there! I'm Celia, a 9th-semester student of **Electronics and Communications 
 
 ## 🛰️ Highlights & Experience
 
-- 📡 **Thesis project:** *Emergency Ground Station Network Design and Planning* (Ongoing)
+- 📡 ** Undergrad thesis project:** *Emergency Ground Station Network Design and Planning* (Ongoing)
 - 🌍 **Scientific stay:** Samara University, Russia 🇷🇺 — Satellite Systems Internship
 - 🇪🇸 **Exchange program:** Universidad Politécnica de Madrid, Spain — Telecommunications Systems Engineering
 - 🇨🇦 **Academic and cultural immersion:** Oxford International, Canada — Soft skills and English communication
