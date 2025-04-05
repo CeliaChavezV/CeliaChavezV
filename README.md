@@ -12,6 +12,7 @@ Hola!, Hi there!, Bonjour!, 你好!, привет!, I'm Celia, a 9th-semester st
 - 🇨🇦 **Academic and cultural immersion:** Oxford International, Canada — Soft skills and English communication
 - 🇲🇽 **Mexican Space Agency:** Contributor to the *Conceptual Model for Broadband Satellite Development*, focusing on the **diagnosis of Mexico's digital divide**
 - 👩‍🏫 Active IEEE student leader, event host and technical conference organizer
+- I can communicate in Spanish, English, French, Russian and Chinese!
 
 ---
 
