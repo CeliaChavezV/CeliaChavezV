@@ -6,6 +6,9 @@ Hola!, Hi there!, Bonjour!, 你好!, привет!, I'm Celia, a 9th-semester st
 
 ## 🛰️ Highlights & Experience
 
+- 🏆 **Emerging Space Leader 2025** — International Astronautical Federation (IAF)
+-🇨🇳 **Research stay:** Zhejiang University, China — Interactive Semantic Communication for Edge-Based Scientific Exploration project
+- 🇯🇵 **Scientific internship:** National Institute for Materials Science (NIMS), Japan — Machine Learning for Aerospace Materials Development
 - 📡 **Undergrad thesis project:** *Emergency Ground Station Network Design and Planning* (Ongoing)
 - 🌍 **Scientific stay:** Samara University, Russia 🇷🇺 — Satellite Systems Internship
 - 🇪🇸 **Exchange program:** Universidad Politécnica de Madrid, Spain — Telecommunications Systems Engineering
